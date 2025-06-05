@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-- 🔭 I am an undergradute student at the University of Oregon, studying Data Science, Physics and Mathematics
+- 🔭 I graduated from the University of Oregon, Bachelor in Data Science, Minors in Physics and Mathematics
 -  Experience:
    - Data Analysist Intern @Jamco America
-    - Physics Undergraduate Lab @Univeristy of Oregon
+   - Physics Undergraduate Lab @Univeristy of Oregon
  
 - 🌱 Education:
-    - Currently a student at the University of Oregon: BS Data Science, Minor in Physics, Minor in Mathemetics
+    - Studied at the University of Oregon: BS Data Science, Minor in Physics, Minor in Mathemetics
     -  AS-T Edmonds College, Physics Domain
  
 - 📫 How to reach me:
