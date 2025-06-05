@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-- 🔭 I graduated from the University of Oregon, Bachelor in Data Science, Minors in Physics and Mathematics
 -  Experience:
    - Data Analysist Intern @Jamco America
    - Physics Undergraduate Lab @Univeristy of Oregon
