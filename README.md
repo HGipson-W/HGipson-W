@@ -6,8 +6,8 @@ Hello, my name is Henry Gipson. I graduated from the University of Oregon with a
    - Physics Advanced Projects Undergraduate Lab @Univeristy of Oregon ~ 1 Year
  
 - 🌱 Education:
-    - Studied at the University of Oregon: BS Data Science, Minor in Physics, Minor in Mathemetics
-    -  AS-T Edmonds College, Physics Domain
+    -  University of Oregon: BS Data Science, Minor in Physics, Minor in Mathemetics
+    -  Edmonds College, AS-T Physics Domain
  
 - 📫 How to reach me:
     - LinkedIN: www.linkedin.com/in/henry-gipson-41a7a21a1
