@@ -15,7 +15,7 @@ Hello, my name is Henry Gipson. I graduated from the University of Oregon with a
     - Email : Henry_Gipson@outlook.com 
  
 - For fun!
-    - Woodshop Instructor/Supervisor @UO-CraftCenter
+    - Former Woodshop Instructor/Supervisor @UO-CraftCenter
 
 <!--
 **HGipson-W/HGipson-W** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
