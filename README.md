@@ -2,7 +2,7 @@
 Hello, my name is Henry Gipson. I graduated from the University of Oregon with a Bachelors in Data Science, additionally completing minors in Physics and Math. I have broad experience in many fields and studies, providing diverse skills to work with any team. 
 
 -  Experience:
-   - Business Intelligence Intern @Jamco America 2 years
+   - Business Intelligence Analyst @Jamco America 2 years
    - Physics Advanced Projects Undergraduate Lab @Univeristy of Oregon 1 Year
  
 - 🌱 Education:
